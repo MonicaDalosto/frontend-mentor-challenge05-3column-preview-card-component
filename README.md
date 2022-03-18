@@ -25,11 +25,11 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-<!-- - Desktop Screen: -->
+- Desktop Screen:
 ![Desktop Screen](./screenshot/desktop-screen.png)
-<!-- - Active Desktop Screen (The three buttons have the same style when on hover): -->
+- Active Desktop Screen (The three buttons have the same style when on hover):
 ![Active Desktop Screen (The three buttons have the same style when on hover):](./screenshot/active-desktop-screen.png)
-<!-- - Mobile Screen -->
+- Mobile Screen
 ![Mobile Screen](./screenshot/mobile-screen.png)
 
 ### Links
